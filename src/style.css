@@ -1,4 +1,4 @@
-.body{
+body{
     margin: 0;
 }
 .component{
@@ -85,12 +85,21 @@
 }
 .btn{
     position: absolute;
-    top: 190px;
-    left: 207px;
+    top: 212px;
+    left: 170px;
+    width: 120px;
+    border-radius: 6px;
+    border: 0;
+    background-color: #e66854;
+    color: white;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: #d46a22;
 }
 .display-component{
     position: absolute;
     width: 178px;
-    top: 238px;
+    top: 250px;
     left: 172px;
 }
