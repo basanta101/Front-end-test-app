@@ -1,3 +1,6 @@
+.body{
+    margin: 0;
+}
 .component{
     position: relative;
     background-color: #fbfcb5;
