@@ -1,0 +1,93 @@
+.component{
+    position: relative;
+    background-color: #fbfcb5;
+    width: auto;
+    height: 900px;
+    
+}
+/* #fac0fa;  */
+.inside-component{
+    position: absolute;
+    top: 18%;
+    left: 32%;
+    
+    
+}
+
+
+.main-conatiner{
+    position: relative;
+    height: 300px;
+    width: 300px;
+}
+.title{
+    position: absolute;
+    left: 169px;
+    top: 10px;
+    width: 150px;
+}
+.select1{
+    position: absolute;
+    width: 467px;
+}
+.select2{
+    position: absolute;
+    top: 142px;
+    width: 467px;
+}
+
+
+
+
+
+
+.row1{
+    
+    height: 20px;
+    position: relative;
+    height:120px;
+}
+.row1-row1{
+    position: absolute;
+    top: 70px;
+    left: 46px;
+}
+.row1-row2{
+    position: absolute;
+    top: 47px;
+}
+.row1-row1 div{
+    display:inline
+}
+.row1-row1-input{
+    margin-left: 103px;
+}
+.row2{
+    position: relative;
+    height:120px;
+}
+.row2-row1{
+    position: absolute;
+    left: 46px;
+}
+.row2-row2{
+    position: absolute;
+    top: -21px;
+}
+.row2-row1 div{
+    display:inline
+}
+.row2-row1-input{
+    margin-left: 64px;
+}
+.btn{
+    position: absolute;
+    top: 190px;
+    left: 207px;
+}
+.display-component{
+    position: absolute;
+    width: 178px;
+    top: 238px;
+    left: 172px;
+}
