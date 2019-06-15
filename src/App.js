@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 import axios from "axios";
 import SliderComponent from "./SliderComponent";
-import "./styles.css";
-//const createSliderWithTooltip = Slider.createSliderWithTooltip;
+import "./style.css";
+
 class App extends Component {
   constructor() {
     super();
