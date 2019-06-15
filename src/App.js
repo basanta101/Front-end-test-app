@@ -106,7 +106,7 @@ class App extends Component {
             {this.state.showDisplayComponent && (
               <div className="display-component">
                 <div>
-                  <span>Interest Rate: {this.state.interestRate * 100}% </span>
+                  <span>Interest Rate: {(this.state.interestRate * 100).toFixed(2)}% </span>
                 </div>
                 <div>
                   <span>Monthly Payment: </span>${" "}
